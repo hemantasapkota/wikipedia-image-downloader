@@ -16,3 +16,5 @@ go build
 Sample Word List
 ================
 A sample wordlist.txt is available in the repository.
+
+Follow me on twitter: [@hemantasapkota](https://twitter.com/laex_pearl) and don't forget to star this project.
